@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fourkane-SA
 - 👀 I’m interested in computer sciences
-- 🌱 I’m currently learning web programming in a master's degree in computer science
-- 💞️ I’m looking to collaborate on a work-study program in IT in Lyon
+- 🌱 I’m currently web developer in The Coding Maching
 - 📫 How to reach me : fourkane.saidali@outlook.fr
 
 <!---
