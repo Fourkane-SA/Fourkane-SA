@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fourkane-SA
 - 👀 I’m interested in computer sciences
-- 🌱 I’m currently web developer in The Coding Maching
+- 🌱 I’m currently web developer in The Coding Machine
 - 📫 How to reach me : fourkane.saidali@outlook.fr
 
 <!---
